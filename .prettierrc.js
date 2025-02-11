@@ -1,8 +1,8 @@
 module.exports = {
-  semi: false, // セミコロンなし
-  trailingComma: 'es5', // 最後にカンマを追加 (ES5互換)
-  singleQuote: true, // シングルクォートを使用
-  printWidth: 80, // 最大行幅
-  tabWidth: 2, // タブ幅
-  useTabs: false, // タブの代わりにスペースを使用
+  semi: false,
+  trailingComma: 'es5',
+  singleQuote: true,
+  printWidth: 80,
+  tabWidth: 2,
+  useTabs: false,
 };
